@@ -4,8 +4,10 @@ export function Header() {
   return (
     <header className="header">
       <div>
-        <img src="/logo.svg" alt="to.do"/>
+        <img src="/MEGA_FIM.svg" alt="go keik@ go"/>
       </div>
-    </header>
+     
+  </header>
+ 
   )
 }
